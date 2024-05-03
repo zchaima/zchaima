@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Chaima Zouari
+### Hi👋 , I'm Chaima Zouari
 
 I'm a business intelligence student with a passion for data analysis and problem-solving. Here's a bit about me:
 
@@ -14,18 +14,11 @@ I'm a business intelligence student with a passion for data analysis and problem
 
 ## GitHub Stats
 
-!GitHub Contributions
-!GitHub Stars
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zchaima)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Blogs
 
-- My Data Visualization Journey
-- Exploring Machine Learning Algorithms
+- Handwritten-Digit-Recognition
 
-## Badges
 
-!Data Analysis
-!Tableau
-
-## Banner
 
