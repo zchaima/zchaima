@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there! 👋 I'm Chaima Zouari
 
-<!--
-**zchaima/zchaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a business intelligence student with a passion for data analysis and problem-solving. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🌱 I'm currently diving deep into SSAS and SSIS, learning how to create OLAP cubes and automate data workflows.
+- 💡 I love building web and mobile applications that make a positive impact.
+- 🚀 Exploring new horizons keeps me motivated and curious
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- SQL
+- SSIS
+
+## GitHub Stats
+
+!GitHub Contributions
+!GitHub Stars
+
+## Recent Blogs
+
+- My Data Visualization Journey
+- Exploring Machine Learning Algorithms
+
+## Badges
+
+!Data Analysis
+!Tableau
+
+## Banner
+
