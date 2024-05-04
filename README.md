@@ -30,9 +30,6 @@ A business intelligence student with a passion for data analysis and problem-sol
 ![](https://github-readme-stats.vercel.app/api?username=zchaima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zchaima&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zchaima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-#### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zchaima&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=zchaima&limit=5&&theme=dark&hide_border=false&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
