@@ -27,9 +27,10 @@ A business intelligence student with a passion for data analysis and problem-sol
 
 <br >
 
-![](https://github-readme-stats.vercel.app/api?username=zchaima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=zchaima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zchaima&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zchaima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-contributor-stats.vercel.app/api?username=zchaima&limit=5&&theme=dark&hide_border=false&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zchaima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
