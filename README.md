@@ -26,20 +26,12 @@ A business intelligence student with a passion for data analysis and problem-sol
 </summary>
 
 <br >
+![](https://github-readme-stats.vercel.app/api?username=zchaima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=zchaima&theme=dark&hide_border=false) <br/>
+![](https://github-contributor-stats.vercel.app/api?username=zchaima&limit=5&&theme=dark&hide_border=false&combine_all_yearly_contributions=true) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zchaima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-    <div style="width: 32%; margin-right: 1%;">
-        ![](https://github-readme-stats.vercel.app/api?username=zchaima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-        ![](https://github-readme-streak-stats.herokuapp.com/?user=zchaima&theme=dark&hide_border=false)
-    </div>
-    <div style="width: 32%; margin-right: 1%;">
-        ![](https://github-contributor-stats.vercel.app/api?username=zchaima&limit=5&&theme=dark&hide_border=false&combine_all_yearly_contributions=true)
-    </div>
-    <div style="width: 32%;">
-        ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zchaima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-        !
-    </div>
-</div>
+
 
 
 
