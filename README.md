@@ -2,10 +2,11 @@
 
 I'm Chaima Zouari
 
-A business intelligence student with a passion for data analysis and problem-solving. Here's a bit about me:
+A mobile development student with a passion for creativity, design, and problem-solving. Here's a bit about me:
 
-- 🔍 I'm currently diving deep into SSAS and SSIS, learning how to create OLAP cubes and automate data workflows.
-- 💻 I love building web and mobile applications 
+- 📱 **Mobile development** is my focus, but I love exploring the intersection between design and technology.
+- 💻 I enjoy creating both **web and mobile applications** that are both practical and visually appealing.
+- 🎨 **Design**, **aesthetics**, and **psychology** are areas I’m fascinated by, and I aim to integrate them into my work to create solutions that are not only functional but also engaging.
 - 🔭 Exploring new horizons keeps me motivated and curious
 
 
