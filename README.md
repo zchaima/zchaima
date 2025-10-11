@@ -2,11 +2,10 @@
 
 I'm Chaima Zouari
 
-A mobile development student with a passion for creativity, design, and problem-solving. Here's a bit about me:
+A mobile development student with a passion for blending creativity with problem-solving. Here's a bit about me:
 
-- 📱 **Mobile development** is my focus, but I love exploring the intersection between design and technology.
 - 💻 I enjoy creating both **web and mobile applications** that are both practical and visually appealing.
-- 🎨 **Design**, **aesthetics**, and **psychology** are areas I’m fascinated by, and I aim to integrate them into my work to create solutions that are not only functional but also engaging.
+- 🎨 **Design** and **psychology** are areas I’m fascinated by, and I aim to integrate them into my work to create solutions that are not only functional but also engaging.
 - 🔭 Exploring new horizons keeps me motivated and curious
 
 
